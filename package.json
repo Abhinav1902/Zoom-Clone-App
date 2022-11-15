@@ -1,10 +1,10 @@
 {
   "name": "zoom-clone",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -17,5 +17,15 @@
     "peerjs": "^1.4.7",
     "socket.io": "^4.5.3",
     "uuid": "^9.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav1902/Zoom-Clone-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abhinav1902/Zoom-Clone-App/issues"
+  },
+  "homepage": "https://github.com/Abhinav1902/Zoom-Clone-App#readme",
+  "description": ""
 }
